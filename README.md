@@ -1,7 +1,5 @@
 # PID & SSI Control System
 
-This project is part of an ongoing effort to develop a high-precision nanopositioning stage using piezoelectric actuators and a 12-bit absolute SSI (Synchronous Serial Interface) encoder.
-
 ### Overview
 
 The micropositioner uses a piezo actuator for each axis, and we’ve implemented a closed-loop PID controller to precisely move the stage to a user-defined position. Position feedback comes from a magnetic encoder that outputs 4096 discrete values over a 2mm range via SSI. The system can be driven by a signal generator or DAC (e.g., MCP4728), depending on the hardware setup.
