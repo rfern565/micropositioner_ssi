@@ -21,3 +21,10 @@ Features
 Example Output from X, Y, Z Axis PID Simulation
 
 <img width="628" alt="Screenshot 2025-06-25 at 1 21 17 PM" src="https://github.com/user-attachments/assets/a0e63676-9949-4ae6-bea6-57353fb44f82" />
+
+Takeaways:
+All axes converge to their targets successfully with different time constants and overshoot behaviors
+
+PID parameters should be tuned per axis to balance speed and precision based on mechanical response
+
+Simulation is effective for verifying controller stability and motion profile before hardware deployment
