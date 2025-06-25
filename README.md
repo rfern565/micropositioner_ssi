@@ -20,5 +20,6 @@ Features
 - Easily swappable between simulation and real hardware
 
 ---
+Example Output from X, Y, Z Axis PID Simulation
 
-
+<img width="628" alt="Screenshot 2025-06-25 at 1 21 17 PM" src="https://github.com/user-attachments/assets/a0e63676-9949-4ae6-bea6-57353fb44f82" />
