@@ -1,6 +1,6 @@
-# Micropositioner SSI Control System
+# PID & SSI Control System
 
-This project is part of an ongoing effort to develop a high-precision nanopositioning stage using piezoelectric actuators and a 12-bit absolute SSI (Synchronous Serial Interface) encoder. The primary goal is to build a low-cost, high-accuracy control system capable of sub-micron repeatability across X, Y, and Z axes.
+This project is part of an ongoing effort to develop a high-precision nanopositioning stage using piezoelectric actuators and a 12-bit absolute SSI (Synchronous Serial Interface) encoder.
 
 ### Overview
 
